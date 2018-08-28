@@ -1,0 +1,49 @@
+#particles canvas{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    width: 100%;
+    overflow: hidden;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    overflow: auto;
+
+}
+
+body {
+    background: #ff6e7f;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+   
+}
+
+li {
+    float: right;
+}
+
+li a {
+    display: block;
+    color: #ff6e7f;
+    text-align: center;
+    padding: 10px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    color: white;
+}
+
+.blogpage {
+
+    align-content: center
+
+}

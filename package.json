@@ -12,6 +12,7 @@
     "gatsby-link": "^1.6.46",
     "gatsby-plugin-typography": "^1.7.19",
     "particlesjs": "^2.2.3",
+    "react-fontawesome": "^1.6.1",
     "react-particles-js": "^2.3.0",
     "typography": "^0.16.17",
     "typography-theme-bootstrap": "^0.16.7",
